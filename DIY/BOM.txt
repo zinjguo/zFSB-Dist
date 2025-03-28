@@ -29,10 +29,3 @@ CA Glue (Super glue)
 
 **3d Assembly:**
 https://a360.co/3UoodTh
-
-
-**Config Utility:**
-https://www.icloud.com/iclouddrive/029EvWXZravQpNLw5m6L8xcxg#zFSBCurves_0_9b
-
-**Firmware:**
-https://cdn.discordapp.com/attachments/1023602566128476241/1280706458773622894/firmware.version.5.uf2?ex=66dc5a16&is=66db0896&hm=e3e1de3b18e6d30f9b163350549c3a926ddaf4120d69b63a7dd62bc69cea8f53&
